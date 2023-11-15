@@ -45,7 +45,7 @@ function getOutcomeEmoji(outcome) {
         case 'your Opponent flees before you can attack':
             return '🏃‍♂️💨';
         case 'you run away scared.. BWARK BWARK BWARK':
-            return '😱🏃‍♂️';
+            return '😱';
         case 'because you used the rare candy cheat, your Pokémon is a too high level to do your dirty work.. it wonders off to find some berries':
             return '🍬';
         default:
